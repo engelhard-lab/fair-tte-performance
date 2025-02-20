@@ -1,2 +1,7 @@
 # fair-tte-performance
-Performance measures for time to event prediction models
+Performance measures for evaluating the fairness of time to event prediction models
+- xCI
+- xROCt
+- xPRt
+- xAUCt
+- xAPt
