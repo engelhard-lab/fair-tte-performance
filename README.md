@@ -6,4 +6,4 @@ Performance measures for evaluating the fairness of time to event prediction mod
 - xAUCt
 - xAPt
 
-Please see [validate.ipynb] for example usage.
+Please see [validate.ipynb](validate.ipynb) for example usage.
