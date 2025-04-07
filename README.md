@@ -1,5 +1,5 @@
 # fair-tte-performance
-This repository provides performance metrics for evaluating the fairness of time to event prediction models, including:
+This repository provides performance metrics for evaluating the fairness of time to event prediction models, as described in the paper _Exploring trade-offs in equitable stroke risk prediction with parity-constrained and race-free models_. The following metrics are included:
 - the group-conditional concordance index (xCI)
 - group-conditional, time-varying receiver operating characteristic (ROC) curves (xROCt)
 - group-conditional, time-varying precision-recall curves (xPRt)
